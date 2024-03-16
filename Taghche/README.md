@@ -1,3 +1,3 @@
 # Redis as a Primary Db
 
-## Example in .NET 6
+## Example in .NET 7
